@@ -1,4 +1,4 @@
 jstree
 ======
 
-jsTree repackaged for meteor
+jsTree(http://www.jstree.com/) repackaged for meteor
