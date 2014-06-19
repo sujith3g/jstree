@@ -1,4 +1,4 @@
-jstree
+jstree repackaged for meteor
 ======
 
-jsTree(http://www.jstree.com/) repackaged for meteor
+<a href="http://www.jstree.com/">jsTree</a> is jquery plugin, that provides interactive trees.
