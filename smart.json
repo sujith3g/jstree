@@ -3,7 +3,7 @@
   "description": "jsTree 3.0.1 for meteor",
   "homepage": "https://github.com/sujith3g/jstree.git",
   "author": "Sujith G",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "git": "https://github.com/sujith3g/jstree.git",
   "packages": { }
 }
