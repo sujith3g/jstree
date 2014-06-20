@@ -12,3 +12,7 @@ With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 ```sh 
 $ mrt add jstree
 ```
+
+For documentation and demo: [See here](http://www.jstree.com/demo/).
+
+For original source: [See here](https://github.com/vakata/jstree).
