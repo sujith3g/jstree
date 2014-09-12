@@ -11,7 +11,6 @@ With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh 
 $ meteor add sujith3g:jstree
-
 ```
 
 For documentation and demo: [See here](http://www.jstree.com/demo/).
