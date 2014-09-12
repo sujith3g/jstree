@@ -10,7 +10,8 @@ Version: 3.0.1
 With [Meteorite](https://github.com/oortcloud/meteorite) installed:
 
 ```sh 
-$ mrt add jstree
+$ meteor add sujith3g:jstree
+
 ```
 
 For documentation and demo: [See here](http://www.jstree.com/demo/).
