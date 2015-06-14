@@ -7,7 +7,7 @@
 */
 Package.describe({
 summary: "jsTree 3.1.1 for meteor",
-version: '3.1.1',
+version: '0.0.3',
 name: 'sujith3g:jstree',
 git: 'https://github.com/sujith3g/jstree'
 });
