@@ -12,6 +12,6 @@ name: 'sujith3g:jstree',
 git: 'https://github.com/sujith3g/jstree'
 });
 Package.on_use(function (api, where) {
-	api.use(['jquery'], 'client');
+	api.use(['jquery@1.11.3_2'], 'client');
 	api.add_files(['lib/32px.png','lib/40px.png','lib/jstree.js','lib/style.css','lib/throbber.gif'], 'client');
 });
