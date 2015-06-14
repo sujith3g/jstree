@@ -3,12 +3,12 @@ jstree repackaged for Meteor
 
 <a href="http://www.jstree.com/">jsTree</a> is jquery plugin, that provides interactive trees.
 
-Version: 3.0.1
+Version: 3.1.1
 
 ###Installation
 
 
-```sh 
+```sh
 $ meteor add sujith3g:jstree
 ```
 
