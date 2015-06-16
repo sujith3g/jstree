@@ -3,6 +3,8 @@ jstree repackaged for Meteor
 
 <a href="http://www.jstree.com/">jsTree</a> is jquery plugin, that provides interactive trees.
 
+For demo in meteor [See here](http://jstree.meteor.com/), [source](https://github.com/sujith3g/jstree-sample) 
+
 Version: 3.1.1
 
 ###Installation
