@@ -5,7 +5,7 @@ jstree repackaged for Meteor
 
 For demo in meteor [See here](http://jstree.meteor.com/), [source](https://github.com/sujith3g/jstree-sample) 
 
-Version: 3.2.0
+jsTree Version: 3.2.0
 
 ###Installation
 
