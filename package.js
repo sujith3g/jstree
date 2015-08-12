@@ -7,13 +7,26 @@
 */
 Package.describe({
 summary: "jsTree 3.1.1 for meteor",
-version: '0.0.4',
+version: '0.0.5',
 name: 'sujith3g:jstree',
 git: 'https://github.com/sujith3g/jstree'
 });
 Package.on_use(function (api, where) {
 	api.use(['jquery@1.11.3_2'], 'client');
-	api.add_files(['lib/32px.png','lib/40px.png','lib/jstree.js','lib/style.css','lib/throbber.gif'], 'client');
+	api.add_files([
+			'lib/default/32px.png',
+			'lib/default/40px.png',
+			'lib/default/style.css',
+			'lib/default/throbber.gif'
+	], 'client');
+	api.add_files([
+			'lib/default-dark/32px.png',
+			'lib/default-dark/40px.png',
+			'lib/default-dark/style.css',
+			'lib/default-dark/throbber.gif'
+	], 'client');
+
+	api.add_files('lib/jstree.js','client');
 });
 Package.onTest(function(api) {
   api.use('tinytest');
