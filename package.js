@@ -6,8 +6,8 @@
 * @Email: sujith3g@gmail.com
 */
 Package.describe({
-summary: "jsTree 3.1.1 for meteor",
-version: '0.0.5',
+summary: "jsTree 3.2.1 for meteor",
+version: '0.0.6',
 name: 'sujith3g:jstree',
 git: 'https://github.com/sujith3g/jstree'
 });
